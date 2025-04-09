@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "adv-java-animals-master/1.0.0": {
+        "runtime": {
+          "adv-java-animals-master.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "adv-java-animals-master/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

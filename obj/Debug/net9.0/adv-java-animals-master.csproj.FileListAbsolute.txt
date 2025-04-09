@@ -1,0 +1,14 @@
+C:\Users\Quinn\Downloads\adv-java-animals-master\obj\Debug\net9.0\adv-java-animals-master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quinn\Downloads\adv-java-animals-master\obj\Debug\net9.0\adv-java-animals-master.AssemblyInfoInputs.cache
+C:\Users\Quinn\Downloads\adv-java-animals-master\obj\Debug\net9.0\adv-java-animals-master.AssemblyInfo.cs
+C:\Users\Quinn\Downloads\adv-java-animals-master\obj\Debug\net9.0\adv-java-animals-master.csproj.CoreCompileInputs.cache
+C:\Users\Quinn\Downloads\adv-java-animals-master\bin\Debug\net9.0\adv-java-animals-master.exe
+C:\Users\Quinn\Downloads\adv-java-animals-master\bin\Debug\net9.0\adv-java-animals-master.deps.json
+C:\Users\Quinn\Downloads\adv-java-animals-master\bin\Debug\net9.0\adv-java-animals-master.runtimeconfig.json
+C:\Users\Quinn\Downloads\adv-java-animals-master\bin\Debug\net9.0\adv-java-animals-master.dll
+C:\Users\Quinn\Downloads\adv-java-animals-master\bin\Debug\net9.0\adv-java-animals-master.pdb
+C:\Users\Quinn\Downloads\adv-java-animals-master\obj\Debug\net9.0\adv-java-animals-master.dll
+C:\Users\Quinn\Downloads\adv-java-animals-master\obj\Debug\net9.0\refint\adv-java-animals-master.dll
+C:\Users\Quinn\Downloads\adv-java-animals-master\obj\Debug\net9.0\adv-java-animals-master.pdb
+C:\Users\Quinn\Downloads\adv-java-animals-master\obj\Debug\net9.0\adv-java-animals-master.genruntimeconfig.cache
+C:\Users\Quinn\Downloads\adv-java-animals-master\obj\Debug\net9.0\ref\adv-java-animals-master.dll
